@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "HellenEQ",
+  "version": "1.0.0",
+  "description": "HellenEQ is a Firefox extension that provides up-to-date information on recent earthquakes in Greece. It fetches seismic data using a custom web scraper from the seismos.gr project, presenting users with clear and accessible earthquake reports directly in their browser.",
+  "icons": {
+    "32": "32.png",
+    "48": "48.png",
+    "64": "64.png"
+  },
+  "permissions": ["tabs"],
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "48.png"
+    }
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "helleneq@alexansta.gr"
+    }
+  }
+}

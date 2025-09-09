@@ -7,8 +7,8 @@ To plugin αυτό εμφανίζει τα τελευταία σεισμικά �
 Μέσω ενώς Webscraper σε :elephant: PHP που υλοποίησα , φορτώνω ολόκληρο όλα τα στοιχεία **a** (links) και τα εξάγω σε μορφή JSON, όπου και τα καλώ μέσα απο αυτό το extension.
 
 
-#### :gem: API Resoure
-Δείτε το API εδώ: https://api.alexasta.gr/helleneq.php
+#### :gem: Εγκατάσταση Προσθέτου
+https://addons.mozilla.org/en-US/firefox/addon/helleneq/
 
 #### :shield: Nομικά Στοιχεία
 
